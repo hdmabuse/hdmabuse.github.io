@@ -22,22 +22,21 @@ Antes é importante entender uma questão que tem sido cara à filosofia ao meno
 Segundo Gilles Deleuze a filosofia é 
 > "a arte de formar, de inventar, de fabricar conceitos." 
 
-Assim como na ciência o experimento é o processo adotado para validação das hipóteses, para a filosofia existe a ferramenta da linguagem e da lógica para comprovar se um conceito faz ou não sentido. Em princípio é fundamental partir-se de um conceito 
-
-No trabalho original de Rico Lins, o início da obra vem de  uma imagem digital sobreposta por uma “ruidosa” imagem analógica (com seus excessos/transparências de tintas/texturas) que deixam a imagem única. Na tradução para sua versão digital o processo ganha outra perspectiva: a imagem, que pode ser tirada por qualquer pessoa, na banalidade do ato de fotografar com o celular, tem sobreposta a tipografia criada analogicamente, e seu resultado (foto + tipos) recebem uma dose de ruído digital. O “Glitch”, “defeito” que torna, por sua vez, a imagem única.
+Assim como na ciência o experimento é o processo adotado para validação das hipóteses, para a filosofia existe a ferramenta da linguagem e da lógica para comprovar se um conceito faz ou não sentido. 
 
 ![filosofia](http://mabuse.art.br/images/FilosofiaHoje-02.png)
 
-No trabalho original de Rico Lins, o início da obra vem de  uma imagem digital sobreposta por uma “ruidosa” imagem analógica (com seus excessos/transparências de tintas/texturas) que deixam a imagem única. Na tradução para sua versão digital o processo ganha outra perspectiva: a imagem, que pode ser tirada por qualquer pessoa, na banalidade do ato de fotografar com o celular, tem sobreposta a tipografia criada analogicamente, e seu resultado (foto + tipos) recebem uma dose de ruído digital. O “Glitch”, “defeito” que torna, por sua vez, a imagem única.
+A partir de conceitos que fazem sentido, o desenvolvimento das ciência se dá de forma adequada, produzindo hipóteses que são assim comprovadas, e tem seu valor até que se prove sua falsidade.
 
 ![filosofia](http://mabuse.art.br/images/FilosofiaHoje-03.png)
 
-No trabalho original de Rico Lins, o início da obra vem de  uma imagem digital sobreposta por uma “ruidosa” imagem analógica (com seus excessos/transparências de tintas/texturas) que deixam a imagem única. Na tradução para sua versão digital o processo ganha outra perspectiva: a imagem, que pode ser tirada por qualquer pessoa, na banalidade do ato de fotografar com o celular, tem sobreposta a tipografia criada analogicamente, e seu resultado (foto + tipos) recebem uma dose de ruído digital. O “Glitch”, “defeito” que torna, por sua vez, a imagem única.
+E é baseado nessas hipóteses científicas que se baseia o trabalho do designer e do engenheiro, com o objetivo de materializar esses conceitos em objetos. Nas palavras de Vilém Flusser:
+>A fotografia transforma conceitos científicos em cenas. 
 
 ![filosofia](http://mabuse.art.br/images/FilosofiaHoje-04.png)
 
-No trabalho original de Rico Lins, o início da obra vem de  uma imagem digital sobreposta por uma “ruidosa” imagem analógica (com seus excessos/transparências de tintas/texturas) que deixam a imagem única. Na tradução para sua versão digital o processo ganha outra perspectiva: a imagem, que pode ser tirada por qualquer pessoa, na banalidade do ato de fotografar com o celular, tem sobreposta a tipografia criada analogicamente, e seu resultado (foto + tipos) recebem uma dose de ruído digital. O “Glitch”, “defeito” que torna, por sua vez, a imagem única.
+Esses objetos intervém na sociedade. Agindo na construção de um futuro, com a influência relacionada ao impacto social trazido por sua chegada.
 
 ![filosofia](http://mabuse.art.br/images/FilosofiaHoje-05.png)
 
-No trabalho original de Rico Lins, o início da obra vem de  uma imagem digital sobreposta por uma “ruidosa” imagem analógica (com seus excessos/transparências de tintas/texturas) que deixam a imagem única. Na tradução para sua versão digital o processo ganha outra perspectiva: a imagem, que pode ser tirada por qualquer pessoa, na banalidade do ato de fotografar com o celular, tem sobreposta a tipografia criada analogicamente, e seu resultado (foto + tipos) recebem uma dose de ruído digital. O “Glitch”, “defeito” que torna, por sua vez, a imagem única.
+Os momentos nos quais os conceitos podem ser validados são os mais variados, durante o processo de design. Se extendermos a ação para mais áreas da filosofia, podemos entender também como é crítico o papel na reflexão a cerca da ética em cada um desses momentos. Para além de julgamentos morais, mas com uma compreensão dos impactos nos circuitos de afetos presentes na sociedade, e para além dela, na reflexão dos impactos nas múltiplas naturezas com as quais dividimos nosso universo.
