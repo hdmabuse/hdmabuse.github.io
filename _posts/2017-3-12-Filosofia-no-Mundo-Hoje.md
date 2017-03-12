@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quem são seus marginais-heróis?
+title: Um dos possiveis lugares da filosofia hoje
 date:   2015-02-12 16:16:01 -0600
 category: Catálogo
 tags: [exposição, rico lins, arte, app]
