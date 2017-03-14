@@ -8,7 +8,7 @@ tags: [filosofia, design, engenharia]
 
 Esse breve texto tem como objetivo levantar uma discussão a cerca dos possíveis papéis da filosofia hoje, fora da academia. Em especial no seu diálogo com o design.
 
-Em função da crescente complexidade das atividades relacionadas ao *design* (seja na representação, resolução de problemas ou especulação sobre o futuro) a aproximação dos *designers* às outras disciplinas tem passado por um acentuado crescimento, notadamente entre as últimas décadas do século XX e as primeiras décadas do século XXI. <sup>1</sup>
+Em função da crescente complexidade das atividades relacionadas ao *design* (seja na representação, resolução de problemas ou especulação sobre o futuro) a aproximação dos *designers* às outras disciplinas tem passado por um acentuado crescimento, notadamente entre as últimas décadas do século XX e as primeiras décadas do século XXI. [ˆ1]
 
 Pesquisas inspiradas nas práticas etnográficas vindas da antropologia <sup>2</sup>; reflexões a cerca da cognição, inspiradas na psicologia <sup>3</sup>; diálogos recorrentes com estatísticos dentro da representação gráfica de dados, se transformaram, apenas para citar alguns exemplos, em temas recorrentes na academia e associações profissionais.
 
@@ -42,7 +42,7 @@ Esses objetos intervém na sociedade. Agindo na construção de um futuro, com a
 Os momentos nos quais os conceitos podem ser validados são os mais variados, durante o processo de design. Se extendermos a ação para mais áreas da filosofia, podemos entender também como é crítico o papel na reflexão a cerca da ética em cada um desses momentos. Para além de julgamentos morais, mas com uma compreensão dos impactos nos circuitos de afetos presentes na sociedade, e para além dela, na reflexão dos impactos nas múltiplas naturezas com as quais dividimos nosso universo.
 
 
-1 - Buchanan, R., Press, T. M. I. T., & Issues, D. (1992). Wicked Problems in Design Thinking. Design Issues, 8(2), 5–21. https://doi.org/10.2307/1511637
+[ˆ1] Buchanan, R., Press, T. M. I. T., & Issues, D. (1992). Wicked Problems in Design Thinking. Design Issues, 8(2), 5–21. https://doi.org/10.2307/1511637
 
 2 - Gunn, W., & Logstrup, L. B. (2014). Participant observation, anthropology methodology and design anthropology research inquiry. Arts and Humanities in Higher Education (Forum: Ethnography and Design Participant), 13(4), 428–442. https://doi.org/10.1177/1474022214543874
 
