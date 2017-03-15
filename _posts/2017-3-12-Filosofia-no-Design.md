@@ -12,7 +12,7 @@ Esse breve texto tem como objetivo levantar uma discussão a cerca de um dos pos
 
 Em função da crescente complexidade das atividades relacionadas ao design do século passado pra cá, a aproximação dos profissionais às outras disciplinas tem passado por um *boom*, notadamente entre as últimas décadas do século XX e as primeiras décadas do século XXI. 
 
-Pesquisas inspiradas nas práticas etnográficas vindas da antropologia(GUNN ET AL, 2014); reflexões a cerca da cognição, inspiradas na psicologia (TENNER, 2015); diálogos recorrentes com estatísticos dentro da representação gráfica de dados, se transformaram, apenas para citar alguns exemplos, em temas recorrentes na academia e associações profissionais.
+Pesquisas inspiradas nas práticas etnográficas vindas da antropologia(GUNN ET AL, 2014); reflexões a cerca da cognição, inspiradas na psicologia (TENNER, 2015); diálogos recorrentes com estatísticos dentro da representação gráfica de dados (MACIEJEWSKY, 2011), se transformaram, apenas para citar alguns exemplos, em temas recorrentes na academia e associações profissionais.
 
 Um dos efeitos desse aumento de complexidade, é o desejo por uma maior profundidade de atuação nos processos inovativos, levando a urgência de uma atuação cada vez mais precoce nos projetos (inicialmente era necessário intervir no começo, recentemente era importante intervir antes deles acontecerem para um melhor entendimento das necessidades, e agora cada vez mais antes de que a necessidade ou um problema surja, como demonstra a teoria de *Fuzzy Front-End*). Nesse cenário a filosofia se apresenta como uma das disciplinas que pode ter um papel crítico no desenvolvimento das atividades dos designers, engenheiros e demais envolvidos nos projetos. 
 
@@ -53,4 +53,4 @@ GUNN, W., & LOGSTRUP, L. B. (2014). Participant observation, anthropology method
 
 TENNER, E. (2015). The Design of Everyday Things by Donald Norman. Technology and Culture, 56(3), 785–787. https://doi.org/10.1353/tech.2015.0104
 
-GALBRAITH, J. R. (2014). Organization Design Challenges Resulting From Big Data. Journal of Organization Design, 3(1), 2–13. https://doi.org/10.7146/jod.3.1.8856
+MACIEJEWSKY, R. (2011). Data Representations, Transformations, and Statistics for Visual Reasoning. Synthesis Lectures on Visualization (Vol. 2). https://doi.org/10.2200/S00357ED1V01Y201105VIS002
