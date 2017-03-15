@@ -8,6 +8,7 @@ tags: [filosofia, design, engenharia]
 
 Esse breve texto tem como objetivo levantar uma discussão a cerca de um dos possíveis papéis da filosofia hoje, tratando, em especial, do seu diálogo com o design.
 
+
 **designers**
 
 Em função da crescente complexidade das atividades relacionadas ao design do século passado pra cá, a aproximação dos profissionais às outras disciplinas tem passado por um *boom*, notadamente entre as últimas décadas do século XX e as primeiras décadas do século XXI. 
@@ -16,7 +17,9 @@ Pesquisas inspiradas nas práticas etnográficas vindas da antropologia(GUNN ET 
 
 Um dos efeitos desse aumento de complexidade, é o desejo por uma maior profundidade de atuação nos processos inovativos, levando a urgência de uma atuação cada vez mais precoce nos projetos (inicialmente era necessário intervir no começo, recentemente era importante intervir antes deles acontecerem para um melhor entendimento das necessidades, e agora cada vez mais antes de que a necessidade ou um problema surja, como demonstra a teoria de *Fuzzy Front-End*). Nesse cenário a filosofia se apresenta como uma das disciplinas que pode ter um papel crítico no desenvolvimento das atividades dos designers, engenheiros e demais envolvidos nos projetos. 
 
+
 **Filósofos**
+
 Datando ao menos do debate entre Richard Rorty e Jürgen Habermas, quando Rorty defende que a filosofia é mais uma das várias áreas de produção do conhecimento da “vida humana associada”, as amigas e amigos do conhecimento, fazem uma reflexao constante sobre o papel da filosofia, seus alcances e limitações. No debate citado ficou famosa a declaração de Rorty que a filosofia deveria deixar de tentar ser o detentor Devendo estabelecer diálogos com as outras áreas humano. 
 
 
