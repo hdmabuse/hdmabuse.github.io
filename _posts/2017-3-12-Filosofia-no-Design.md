@@ -8,12 +8,11 @@ tags: [filosofia, design, engenharia]
 
 Esse breve texto tem como objetivo levantar uma discussão a cerca de um dos possíveis papéis da filosofia hoje, tratando, em especial, do seu diálogo com o design.
 
-
 **designers**
 
 Em função da crescente complexidade das atividades relacionadas ao design do século passado pra cá, a aproximação dos profissionais às outras disciplinas tem passado por um *boom*, notadamente entre as últimas décadas do século XX e as primeiras décadas do século XXI. 
 
-Pesquisas inspiradas nas práticas etnográficas vindas da antropologia; reflexões a cerca da cognição, inspiradas na psicologia; diálogos recorrentes com estatísticos dentro da representação gráfica de dados, se transformaram, apenas para citar alguns exemplos, em temas recorrentes na academia e associações profissionais.
+Pesquisas inspiradas nas práticas etnográficas vindas da antropologia(GUNN ET AL, 2014); reflexões a cerca da cognição, inspiradas na psicologia (TENNER, 2015); diálogos recorrentes com estatísticos dentro da representação gráfica de dados, se transformaram, apenas para citar alguns exemplos, em temas recorrentes na academia e associações profissionais.
 
 Um dos efeitos desse aumento de complexidade, é o desejo por uma maior profundidade de atuação nos processos inovativos, levando a urgência de uma atuação cada vez mais precoce nos projetos (inicialmente era necessário intervir no começo, recentemente era importante intervir antes deles acontecerem para um melhor entendimento das necessidades, e agora cada vez mais antes de que a necessidade ou um problema surja, como demonstra a teoria de *Fuzzy Front-End*). Nesse cenário a filosofia se apresenta como uma das disciplinas que pode ter um papel crítico no desenvolvimento das atividades dos designers, engenheiros e demais envolvidos nos projetos. 
 
@@ -44,3 +43,14 @@ Esses objetos intervém na sociedade. Agindo na construção de um futuro, com a
 ![filosofia](http://mabuse.art.br/images/FilosofiaHoje-05.png)
 
 Os momentos nos quais os conceitos podem ser validados são os mais variados, durante o processo de design. Se extendermos a ação para mais áreas da filosofia, podemos entender também como é crítico o papel na reflexão a cerca da ética em cada um desses momentos. Para além de julgamentos morais, mas com uma compreensão dos impactos nos circuitos de afetos presentes na sociedade, e para além dela, na reflexão dos impactos nas múltiplas naturezas com as quais dividimos nosso universo.
+
+
+**referências**
+
+BUCHANAN, R., Press, T. M. I. T., & Issues, D. (1992). Wicked Problems in Design Thinking. Design Issues, 8(2), 5–21. https://doi.org/10.2307/1511637
+
+GUNN, W., & LOGSTRUP, L. B. (2014). Participant observation, anthropology methodology and design anthropology research inquiry. Arts and Humanities in Higher Education (Forum: Ethnography and Design Participant), 13(4), 428–442. https://doi.org/10.1177/1474022214543874
+
+TENNER, E. (2015). The Design of Everyday Things by Donald Norman. Technology and Culture, 56(3), 785–787. https://doi.org/10.1353/tech.2015.0104
+
+GALBRAITH, J. R. (2014). Organization Design Challenges Resulting From Big Data. Journal of Organization Design, 3(1), 2–13. https://doi.org/10.7146/jod.3.1.8856
