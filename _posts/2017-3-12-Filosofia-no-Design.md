@@ -13,20 +13,19 @@ Esse breve texto tem como objetivo levantar uma discussão a cerca de um dos pos
 
 Em função da crescente complexidade das atividades relacionadas ao design do século passado pra cá, a aproximação dos profissionais às outras disciplinas tem passado por um *boom*, notadamente entre as últimas décadas do século XX e as primeiras décadas do século XXI. 
 
-Pesquisas inspiradas nas práticas etnográficas vindas da antropologia(GUNN ET AL, 2014); reflexões a cerca da cognição, inspiradas na psicologia (TENNER, 2015); diálogos recorrentes com estatísticos dentro da representação gráfica de dados (MACIEJEWSKY, 2011), se transformaram, apenas para citar alguns exemplos, em temas recorrentes na academia e associações profissionais.
+Pesquisas inspiradas nas práticas etnográficas vindas da antropologia(1); reflexões a cerca da cognição, inspiradas na psicologia (2); diálogos recorrentes com estatísticos dentro da representação gráfica de dados (3), se transformaram, apenas para citar alguns exemplos, em temas recorrentes na academia e associações profissionais.
 
 Um dos efeitos desse aumento de complexidade, é o desejo por uma maior profundidade de atuação nos processos inovativos, levando à urgência  de uma participação cada vez mais precoce nos projetos (inicialmente se participava desde o começo do desenvolvimento, recentemente era importante intervir antes deles iniciarem, para um melhor entendimento das necessidades, e agora cada vez mais antes de que a necessidade ou um problema surja, como demonstra a teoria de *Fuzzy Front-End*). Nesse cenário a filosofia se apresenta como uma das disciplinas que pode ter um papel crítico no desenvolvimento das atividades dos designers, engenheiros e demais envolvidos nos projetos. Em especial na sua análise e criação de conceitos.
 
 
 **sobre filósofos**
 
-
-![filosofia](http://mabuse.art.br/images/FilosofiaHoje-01.png)
-
-Segundo Gilles Deleuze a filosofia é 
+Segundo Deleuze e Guattari(4) a filosofia é 
 > "a arte de formar, de inventar, de fabricar conceitos." 
 
-Assim como na ciência o experimento é o processo paradigmático adotado para validação das hipóteses, para a filosofia existe a ferramenta da linguagem e da lógica para comprovar se um conceito faz ou não sentido dentro de uma determinada natureza. 
+Assim como na ciência o experimento é o processo historicamente adotado para validação das hipóteses, na filosofia existe a ferramenta da linguagem e da lógica para comprovar se um conceito faz ou não sentido dentro de uma determinada natureza. 
+    
+![filosofia](http://mabuse.art.br/images/FilosofiaHoje-01.png)
 
 ![filosofia](http://mabuse.art.br/images/FilosofiaHoje-02.png)
 
@@ -48,10 +47,13 @@ Os momentos nos quais os conceitos podem ser validados são os mais variados, du
 
 **referências**
 
-BUCHANAN, R., Press, T. M. I. T., & Issues, D. (1992). Wicked Problems in Design Thinking. Design Issues, 8(2), 5–21. https://doi.org/10.2307/1511637
+(1) GUNN, W.; LOGSTRUP, L. B. Participant observation, anthropology methodology and design anthropology research inquiry. Arts and Humanities in Higher Education (Forum: Ethnography and Design Participant), v. 13, n. 4, p. 428–442, 2014. 
 
-GUNN, W., & LOGSTRUP, L. B. (2014). Participant observation, anthropology methodology and design anthropology research inquiry. Arts and Humanities in Higher Education (Forum: Ethnography and Design Participant), 13(4), 428–442. https://doi.org/10.1177/1474022214543874
+(2) TENNER, E. The Design of Everyday Things by Donald Norman. Technology and Culture, v. 56, n. 3, p. 785–787, 2015. 
 
-TENNER, E. (2015). The Design of Everyday Things by Donald Norman. Technology and Culture, 56(3), 785–787. https://doi.org/10.1353/tech.2015.0104
+(3) MACIEJEWSKI, R. Data Representations, Transformations, and Statistics for Visual Reasoning. [s.l: s.n.]. v. 2, 2011.
 
-MACIEJEWSKY, R. (2011). Data Representations, Transformations, and Statistics for Visual Reasoning. Synthesis Lectures on Visualization (Vol. 2). https://doi.org/10.2200/S00357ED1V01Y201105VIS002
+(4) DELEUZE, G.; GUATTARI, F. O que é a Filosofia? 3. ed. São Paulo: Editora 34, 2010. 
+
+
+
