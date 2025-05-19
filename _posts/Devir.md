@@ -1,0 +1,19 @@
+[[ReadItLater]] [[Article]]
+
+# [Devir](https://www.mabuse.art.br/post/devir)
+
+![](ReadItLater%20Inbox/assets/Devir/654be3_9dbd0b8cf09d4daf8cd620d15a3d7aa9~mv2.jpg)
+
+O termo "devir" tem raízes antigas na filosofia, com Heráclito de Éfeso conceituando-o como um elemento de transformação e alteridade inerente ao que é. Este devir é visualizado como um fluxo constante de transformações antinômicas que, apesar do conflito, coexistem e geram um ser constantemente transformado. No fragmento 51, Heráclito concebia o devir como a essência intrínseca do ser, salientando a ideia de que as oposições se unem em uma harmonia oculta, tal como ele expressa: “Não compreendem como concorda o que de si difere: harmonia de movimentos contrários, como a do arco e da lira”. Em sua filosofia expressa por aforismos, Heráclito via o devir como a própria natureza da mudança que perpetuamente redefine o ser.
+
+Tal conceito de sua origem grega, reverberou ao longo da história da filosofia no hemisfério norte, inspirando pensadores como Hegel, para quem o devir representava a superação dialética, que desmistifica os processos de diferença no ser a partir da constatação de uma unidade (essência) no devir, e Nietzsche, que entendia no devir por relações e construções históricas em uma manifestação incisiva da afirmação da existência; que não deve ser interpretado como evolução ou como a conquista de uma supremacia do ser, ou seja, não é um processo de evolução. O devir é imprevisível, pois não se atrela a um ideal abstrato, mas à realidade tangível do ser, devir então é "tornar-se o que se é" como sintetiza o filósofo, inspirado no poeta Píndaro. 
+
+![](ReadItLater%20Inbox/assets/Devir/654be3_72e7f2fbef4f4c2b8b4b0cd581e0b6db~mv2.png)
+
+Já na filosofia contemporânea, o "devir" é retomado por Gilles Deleuze e Félix Guattari, que o descrevem como um processo contínuo e não linear de transformação, onde algo se torna diferente, superando a imitação ou identificação fixa (DELEUZE; GUATTARI, 2012b). Este conceito ganha importância em diversas áreas, como na pedagogia, na qual sua estrutura rizomática é vista como uma abordagem não hierárquica que realinha as relações de ensino, com o devir desempenhando um papel crucial nas relações dinâmicas entre professores e alunos (LOPES; VIEIRA, 2023).
+
+![](ReadItLater%20Inbox/assets/Devir/654be3_9833bd6c9aaa45898a7c7db4f3d93daa~mv2.jpg)
+
+Dentro do pensamento quilombola o devir, segundo o líder quilombola Antônio Bispo dos Santos, se afirma no entendimento que as vidas não têm fim. "A geração avó é o começo, a geração mãe é o meio e a geração neta é o começo de novo”. Essa concepção de tempo e de continuidade presente na filosofia quilombola enfatiza a circularidade da vida, onde o começo e o fim se entrelaçam e cada geração é, ao mesmo tempo, um começo e um recomeço. Essa perspectiva valoriza a ancestralidade, a transmissão de conhecimentos e a importância de acompanhar trajetórias e não construir teorias que se fixem em um momento no tempo. “Somos povos de trajetórias, não somos povos de teoria. Somos da circularidade: começo, meio e começo". 
+
+Assim, se para Heráclito no fragmento 103: "princípio e fim se entrelaçam na circunferência do círculo", a novidade trazida pelo pensamento quilombola para o devir está materializada na expressão “começo-meio-começo”: além de representar a ideia de uma trajetória contínua, está em pensar um continuidade de começos e meios sem fim, com os diferentes estágios da vida entretecidos e que se reiniciam constantemente, nessa temporalidade não linear, que valoriza a ciclicidade e a interdependência entre as gerações. Podemos representar o Devir como o [Rizoma](https://publish.obsidian.md/dsg-ia/Tramas/Escolhas+metodol%C3%B3gicas/Rizoma) ou a Malha

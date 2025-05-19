@@ -1,0 +1,5 @@
+title: h.d.mabuse
+description: design, arte, música e filosofia
+theme: minima  # Tema padrão do Jekyll (ou use outro)
+plugins:
+  - jekyll-feed
