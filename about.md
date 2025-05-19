@@ -7,7 +7,15 @@ permalink: /about/
 
 ![h.d.mabuse](/images/h.d.mabuse_P.jpg)
 
-Consultor em design do CESAR. Tem trabalhado desde 1990 com colaboração, comportamentos emergentes e remix de várias linguagens nas áreas das artes visuais, design, música e filosofia. Fez parte do grupo brasileiro de artistas do projeto Playable City: Recife, no qual desenvolveu pesquisa sobre a interação artista-público mediada por novas tecnologias de forma lúdica.
+
+Designer e pesquisador, mestre em Design pelo PPGDesign da UFPE, onde cursa o doutorado. Tem trabalhado desde 1990 com colaboração, comportamentos emergentes e remix de várias linguagens nas áreas das artes visuais, design, música e filosofia. Nos últimos anos tem mergulhado nas transformações nas pessoas humanas e não-humanas que se dão por meio do design, com ênfase nas relações com as tecnologias.
+
+​​​
+
+Faça download da foto
+
+Lattes iD: http://lattes.cnpq.br/8668875075504449
+Orcid iD: https://orcid.org/0000-0002-6866-0916
 
 
 
