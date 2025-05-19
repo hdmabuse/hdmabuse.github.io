@@ -17,17 +17,17 @@ avatar: https://pbs.twimg.com/profile_images/766410650990043136/dTf9rF16.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: mabuse@cesar.org.br
+  #dribbble:
+  email: mabuse@mabuse.art.br
   facebook: h.d.mabuse
   flickr: calmax
   github: hdmabuse
-  instagram: hdmabuse
-  linkedin: mabuse
+  instagram: mabuse.art
+  linkedin: h-d-mabuse
   pinterest: hdmabuse
-  rss: fairplay # just type anything here for a working RSS icon
-  twitter: hdmabuse
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  rss:  # just type anything here for a working RSS icon
+  #twitter: hdmabuse
+  #stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: user/h.d.mabuse
   googleplus: # anything in your profile username that comes after plus.google.com/
 
