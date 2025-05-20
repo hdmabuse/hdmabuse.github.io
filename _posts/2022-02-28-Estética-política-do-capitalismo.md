@@ -1,8 +1,5 @@
-[[ReadItLater]] [[Article]]
 
 # [Estética política do capitalismo](https://www.mabuse.art.br/post/est%C3%A9tica-pol%C3%ADtica-do-capitalismo)
-
-![](ReadItLater%20Inbox/assets/Estética%20política%20do%20capitalismo/654be3_45bcb3102e9d4e7b803397c9944fff06~mv2.png)
 
 A importância do lançamento no Brasil do primeiro livro de Mark Fisher, [Realismo Capitalista](https://autonomialiteraria.com.br/loja/teoria-politica/realismo-capitalista/), publicado originalmente em 2009, e lançado agora pela Autonomia Literária, me faz escrever essas poucas linhas para dar conta de uma primeira e incompleta leitura da sua obra.  
 

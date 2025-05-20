@@ -1,10 +1,8 @@
-[[ReadItLater]] [[Article]]
 
-# [Artificial Intelligence, Digital Agents, and Human Agency](https://www.mabuse.art.br/post/artificial-intelligence-digital-agents-and-human-agency)
 
 Originally published in Portuguese on March 23, 2023.    
 
-![](ReadItLater%20Inbox/assets/Artificial%20Intelligence,%20Digital%20Agents,%20and%20Human%20Agency/654be3_14c1bb9eaacf49e39bc92310b2b58946~mv2.png)
+
 
 We are surrounded by digital agents that adapt their activities based on data we ourselves produce. They do this with the aim of modifying our behaviors. Examples include recommendation lists on Netflix or Amazon, as well as YouTube's feed. The goal of this text is to develop an understanding of the specific characteristics of how these agents operate and the differences compared to human agency.
 

@@ -1,8 +1,3 @@
-[[ReadItLater]] [[Article]]
-
-# [Inteligência artificial, agentes digitais e agência humana](https://www.mabuse.art.br/post/intelig%C3%AAncia-artificial-agentes-digitais-e-ag%C3%AAncia-humana)
-
-![Ilustração: Haidée Lima](ReadItLater%20Inbox/assets/Inteligência%20artificial,%20agentes%20digitais%20e%20agência%20humana/Ilustração%20Haidée%20Lima.jpeg)
 
 Ilustração: Haidée Lima
 
