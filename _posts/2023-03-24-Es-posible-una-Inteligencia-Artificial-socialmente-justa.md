@@ -1,10 +1,12 @@
-[[ReadItLater]] [[Article]]
+---
+languages = es
+---
 
-# [¿Es posible una Inteligencia Artificial socialmente justa?](https://www.mabuse.art.br/post/es-posible-una-inteligencia-artificial-socialmente-justa)
+
 
 Publicado originalmente en portugués el 24 de marzo de 2023.  
 
-![Ilustración de Haidée Lima.](ReadItLater%20Inbox/assets/¿Es%20posible%20una%20Inteligencia%20Artificial%20socialmente%20justa/Ilustración%20de%20Haidée%20Lima..png)
+![Ilustración de Haidée Lima.](assets/.png)
 
 Ilustración de Haidée Lima.
 
