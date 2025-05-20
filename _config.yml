@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: h.d.mabuse
+title: encruzilhada
 email: mabuse@mabuse.art.br
 description: >- # this means to ignore newlines until "baseurl:"
-  design, música, filosofia e arte.
+  Encruzilhada é onde os caminhos se desdobram, um lugar de luz e dobras de possibilidades onde histórias são contadas. Aqui você encontra uma combinação de Mapa-sendo-construído, diário de campo e caderno de viagem.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+linkedin_username: h-d-mabuse
+twitter_username: hdmabuse
+github_username:  hdmabuse
 
 # Build settings
 theme: minima
