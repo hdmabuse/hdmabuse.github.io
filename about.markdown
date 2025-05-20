@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Designer e pesquisador, mestre em Design pelo PPGDesign da UFPE, onde cursa o doutorado. Tem trabalhado desde 1990 com colaboração, comportamentos emergentes e remix de várias linguagens nas áreas das artes visuais, design, música e filosofia. Nos últimos anos tem mergulhado nas transformações nas pessoas humanas e não-humanas que se dão por meio do design, com ênfase nas relações com as tecnologias.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Faça download da foto
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Lattes iD: http://lattes.cnpq.br/8668875075504449
+Orcid iD: https://orcid.org/0000-0002-6866-0916
