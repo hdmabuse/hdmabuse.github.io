@@ -1,6 +1,9 @@
-	[[ReadItLater]] [[Article]]
+---
+lang: pt
+title: Ficção Especulativa no Combate às Ditaduras: Reinventando Futuros Interrompidos
+permalink: /blog/pt/
+---
 
-# [Ficção Especulativa no Combate às Ditaduras: Reinventando Futuros Interrompidos](https://www.mabuse.art.br/post/fic%C3%A7%C3%A3o-especulativa-no-combate-%C3%A0s-ditaduras-reinventando-futuros-interrompidos)
 
 ![Sala de Controlde do Synco/Cybersyn](ReadItLater%20Inbox/assets/Ficção%20Especulativa%20no%20Combate%20às%20Ditaduras%20Reinventando%20Futuros%20Interrompidos/Sala%20de%20Controlde%20do%20SyncoCybersyn.jpg)
 

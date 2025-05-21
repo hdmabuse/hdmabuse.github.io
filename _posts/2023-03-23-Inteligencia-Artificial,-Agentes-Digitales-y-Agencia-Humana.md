@@ -1,6 +1,8 @@
-[[ReadItLater]] [[Article]]
-
-# [Inteligencia Artificial, Agentes Digitales y Agencia Humana](https://www.mabuse.art.br/post/inteligencia-artificial-agentes-digitales-y-agencia-humana)
+---
+lang: es
+title: Inteligencia artificial, agentes digitales y agencia humana
+permalink: /blog/es/
+---
 
 Publicado originalmente en portugués el 23 de marzo de 2023.  
 

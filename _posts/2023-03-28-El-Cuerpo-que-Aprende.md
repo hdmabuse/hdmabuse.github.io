@@ -1,4 +1,8 @@
-![](ReadItLater%20Inbox/assets/El%20Cuerpo%20que%20Aprende%20-%20O%20por%20qué%20la%20Inteligencia%20Artificial%20nunca%20será%20como%20nosotros/654be3_e8084f915a9f4ce58c669bd0d0cbefdb~mv2.jpg)
+---
+lang: es
+title: El Cuerpo que Aprende
+permalink: /blog/es/
+---
 
 En una [reciente participación en un podcast](https://youtu.be/qOdjM14QW0s?si=WavqmRCYdsISnYFF), el cineasta James Cameron, conocido por películas como *Avatar* y *Titanic*, compartió sus reflexiones sobre las diferencias esenciales entre la inteligencia artificial y la humana.  
 

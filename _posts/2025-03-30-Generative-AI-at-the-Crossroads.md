@@ -1,6 +1,8 @@
-[[ReadItLater]] [[Article]]
-
-# [Generative AI at the Crossroads: From the North's Old Certainties to the South's New Possibilities](https://www.mabuse.art.br/post/artificial-intelligence-in-a-post-reason-era-a-critical-perspective-from-the-global-south)
+---
+lang: en
+title: Generative AI at the Crossroad: From the North's Old Certainties to the South's New Possibilities
+permalink: /blog/en/
+---
 
 ![](ReadItLater%20Inbox/assets/Generative%20AI%20at%20the%20Crossroads%20From%20the%20North's%20Old%20Certainties%20to%20the%20South's%20New%20Possibilities/654be3_c1829ed9d7594048b6d23d5056546b78~mv2.jpg)
 

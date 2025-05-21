@@ -1,8 +1,9 @@
-
-
+---
+lang: en
+title: Artificial Intelligence, Digital Agents and Human-Agency
+permalink: /blog/en/
+---
 Originally published in Portuguese on March 23, 2023.    
-
-
 
 We are surrounded by digital agents that adapt their activities based on data we ourselves produce. They do this with the aim of modifying our behaviors. Examples include recommendation lists on Netflix or Amazon, as well as YouTube's feed. The goal of this text is to develop an understanding of the specific characteristics of how these agents operate and the differences compared to human agency.
 

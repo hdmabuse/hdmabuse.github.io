@@ -1,8 +1,8 @@
-[[ReadItLater]] [[Article]]
-
-# [IA Gerativa na encruzilhada: das velhas certezas do Norte às novas possibilidades do Sul.](https://www.mabuse.art.br/post/ia-gerativa-na-encruzilhada-das-velhas-certezas-do-norte-%C3%A0s-novas-possibilidades-do-sul)
-
-acervo pessoal
+---
+lang: pt
+title: IA Gerativa na encruzilhada das velhas certezas do Norte às novas possibilidades do Sul.
+permalink: /blog/pt/
+---
 
 ![Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.](ReadItLater%20Inbox/assets/IA%20Gerativa%20na%20encruzilhada%20das%20velhas%20certezas%20do%20Norte%20às%20novas%20possibilidades%20do%20Sul./Não%20estamos%20tratando%20da%20escolha%20entre%20diferentes%20modelos%20de%20IA%20-%20mas%20sim%20de%20decidir%20se%20seremos%20capazes%20de%20construir%20uma%20IA%20verdadeiramente%20plural%20e%20descolonizada..jpg)
 

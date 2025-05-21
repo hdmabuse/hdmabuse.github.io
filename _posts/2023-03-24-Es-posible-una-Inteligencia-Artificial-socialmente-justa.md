@@ -1,5 +1,7 @@
 ---
-languages = es
+lang: es
+title: Es posible una Inteligencia Artificial socialmente justa
+permalink: /blog/es/
 ---
 
 

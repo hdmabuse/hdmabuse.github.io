@@ -1,6 +1,8 @@
-[[ReadItLater]] [[Article]]
-
-# [El Papel del Diseño en el Desarrollo de AI: una trama de Personas y Tecnologías](https://www.mabuse.art.br/post/el-papel-del-dise%C3%B1o-en-el-desarrollo-de-chatbots-una-trama-de-personas-y-tecnolog%C3%ADas)
+---
+lang: es
+title: El Papel del Diseño en el Desarrollo de AI
+permalink: /blog/es/
+---
 
 ![Rizomas](ReadItLater%20Inbox/assets/El%20Papel%20del%20Diseño%20en%20el%20Desarrollo%20de%20AI%20una%20trama%20de%20Personas%20y%20Tecnologías/Rizomas.png)
 

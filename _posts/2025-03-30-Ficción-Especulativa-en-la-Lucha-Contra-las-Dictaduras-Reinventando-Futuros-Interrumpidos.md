@@ -1,6 +1,9 @@
-[[ReadItLater]] [[Article]]
+---
+lang: es
+title: Ficción Especulativa en la Lucha Contra las Dictaduras: Reinventando Futuros Interrumpidos
+permalink: /blog/es/
+---
 
-# [Ficción Especulativa en la Lucha Contra las Dictaduras: Reinventando Futuros Interrumpidos](https://www.mabuse.art.br/post/ficci%C3%B3n-especulativa-en-la-lucha-contra-las-dictaduras-reinventando-futuros-interrumpidos)
 
 ![Sala de Operaciones del Proyecto Synco/Cybersyn](ReadItLater%20Inbox/assets/Ficción%20Especulativa%20en%20la%20Lucha%20Contra%20las%20Dictaduras%20Reinventando%20Futuros%20Interrumpidos/Sala%20de%20Operaciones%20del%20Proyecto%20SyncoCybersyn.jpg)
 

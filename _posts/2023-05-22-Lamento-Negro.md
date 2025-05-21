@@ -1,6 +1,8 @@
-[[ReadItLater]] [[Article]]
-
-# [Lamento Negro](https://www.mabuse.art.br/post/lamento-negro)
+---
+lang: pt
+title: Lamento Negro
+permalink: /blog/pt/
+---
 
 ![](ReadItLater%20Inbox/assets/Lamento%20Negro/654be3_c477fc81987c4f9bb8e4506122672880~mv2.png)
 

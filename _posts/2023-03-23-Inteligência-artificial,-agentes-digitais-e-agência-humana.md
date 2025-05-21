@@ -1,3 +1,8 @@
+---
+lang: pt
+title: Inteligência artificial, agentes digitais e agência humana
+permalink: /blog/pt/
+---
 
 Ilustração: Haidée Lima
 

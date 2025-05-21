@@ -1,8 +1,8 @@
-[[ReadItLater]] [[Article]]
-
-# [De quem é a autoria?](https://www.mabuse.art.br/post/de-quem-%C3%A9-a-autoria)
-
-![Ilustração: Haidée Lima, gerada por AI, a partir de uma litogravura criada a partir de uma fotografia.](ReadItLater%20Inbox/assets/De%20quem%20é%20a%20autoria/Ilustração%20Haidée%20Lima,%20gerada%20por%20AI,%20a%20partir%20de%20uma%20litogravura%20criada%20a%20partir%20de%20uma%20fotografia..jpg)
+---
+lang: pt
+title: De quem é a autoria?
+permalink: /blog/pt/
+---
 
 Ilustração: Haidée Lima, gerada por AI, a partir de uma litogravura criada a partir de uma fotografia.
 

@@ -1,6 +1,8 @@
-[[ReadItLater]] [[Article]]
-
-# [Is a socially just Artificial Intelligence possible?](https://www.mabuse.art.br/post/is-a-socially-just-artificial-intelligence-possible)
+---
+lang: en
+title: Is a socially just Artificial Intelligence possible?
+permalink: /blog/en/
+---
 
 Originally published in Portuguese on March 24, 2023.
 
