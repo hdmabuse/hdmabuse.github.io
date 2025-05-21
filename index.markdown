@@ -4,9 +4,43 @@
 layout: home  # Usa o layout "home" (depende do tema, como "minima" ou customizado)
 title: "h.d.mabuse"  # Título da página
 permalink: /  # Define a URL da homepage (geralmente "/")
-language: pt
+lang: pt
 ---
-\{% raw %}
+
+## Posts em Português (PT)
+{% assign posts_pt = site.posts | where: "lang", "pt" %}
+{% if posts_pt.size > 0 %}
+  {% for post in posts_pt %}
+  - [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%d/%m/%Y" }})
+  {% endfor %}
+{% else %}
+  *Nenhum post em português ainda.*
+{% endif %}
+
+---
+
+## Posts em Inglês (EN)
+{% assign posts_en = site.posts | where: "lang", "en" %}
+{% if posts_en.size > 0 %}
+  {% for post in posts_en %}
+  - [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%m/%d/%Y" }})
+  {% endfor %}
+{% else %}
+  *No English posts yet.*
+{% endif %}
+
+---
+
+## Posts em Espanhol (ES)
+{% assign posts_es = site.posts | where: "lang", "es" %}
+{% if posts_es.size > 0 %}
+  {% for post in posts_es %}
+  - [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%d/%m/%Y" }})
+  {% endfor %}
+{% else %}
+  *Aún no hay posts en español.*
+{% endif %}
+{% raw %}
 ## Posts em Português (PT)
 {% assign posts_pt = site.posts | where: "lang", "pt" %}
 {% for post in posts_pt %}
