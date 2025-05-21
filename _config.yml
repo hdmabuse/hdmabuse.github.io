@@ -117,14 +117,12 @@
 languages: ["pt", "en", "fr"]
 default_lang: "pt"
 nav_pages:
-     - about.md
      - sobre.md
      - PT.md
      - ES.md
      - EN.md
 title: encruzilhada
-author:
-  name: h.d.mabuse
+author: h.d.mabuse
   email: mabuse@mabuse.art.br
 #
 description: >- # this means to ignore newlines until "baseurl:"
