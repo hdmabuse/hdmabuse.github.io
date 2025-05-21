@@ -41,21 +41,3 @@ lang: pt
   *Aún no hay posts en español.*
 {% endif %}
 {% raw %}
-## Posts em Português (PT)
-{% assign posts_pt = site.posts | where: "lang", "pt" %}
-{% for post in posts_pt %}
-- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%d/%m/%Y" }})
-{% endfor %}
-
-## Posts em Inglês (EN)
-{% assign posts_en = site.posts | where: "lang", "en" %}
-{% for post in posts_en %}
-- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%d/%m/%Y" }})
-{% endfor %}
-
-## Posts em Espanhol (ES)
-{% assign posts_es = site.posts | where: "lang", "es" %}
-{% for post in posts_es %}
-- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%d/%m/%Y" }})
-{% endfor %}
-{% endraw %}
