@@ -123,7 +123,7 @@ nav_pages:
      - EN.md
 title: encruzilhada
 author: h.d.mabuse
-  email: mabuse@mabuse.art.br
+email: mabuse@mabuse.art.br
 #
 description: >- # this means to ignore newlines until "baseurl:"
   Encruzilhada é onde os caminhos se desdobram, um lugar de luz e dobras de possibilidades onde histórias são contadas. Aqui você encontra uma combinação de Mapa-sendo-construído, diário de campo e caderno de viagem.
@@ -135,8 +135,8 @@ github_username:  hdmabuse
 
 # Build settings
 
-plugins:
-  - jekyll-minima-theme  # Permite temas remotos
+theme:
+  - minima  # Permite temas remotos
 plugins:
   - jekyll-feed
 ---
