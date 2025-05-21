@@ -137,9 +137,8 @@ github_username:  hdmabuse
 
 # Build settings
 
-remote_theme: mmistakes/so-simple-theme
 plugins:
-  - jekyll-remote-theme  # Permite temas remotos
+  - jekyll-minima-theme  # Permite temas remotos
 plugins:
   - jekyll-feed
 ---
@@ -150,7 +149,6 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
