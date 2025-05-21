@@ -4,10 +4,14 @@ title: Textos em Português
 permalink: /blog/pt/
 ---
 
-{% raw %}
-{% assign posts_pt = site.posts | where: "lang", "pt" %}
-{% for post in posts_pt %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p>{{ post.date | date: "%d/%m/%Y" }}</p>
-{% endfor %}
-{% endraw %}
+# Posts em Português
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.lang == "pt" %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%d/%m/%Y" }}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
