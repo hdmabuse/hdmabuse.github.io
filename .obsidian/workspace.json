@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "b9afb3ba807670a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f327fad9925e157e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ace54fce1b6eaa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pt.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "pt"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbb14a1893c1f62c",
+    "type": "split",
+    "children": [
+      {
+        "id": "21bdb47fb9eaa0d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6be73cbde2cea2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0fc008a8711bb8b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "975cb17dd3683f2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fc970f30ef84a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c3b38528c136f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc1211e2161943bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para pt"
+            }
+          },
+          {
+            "id": "7d39f5ad87ee2127",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para pt"
+            }
+          },
+          {
+            "id": "8005254545a39bf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b9a94642e0b1d134",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pt.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de pt"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e6be73cbde2cea2e",
+  "lastOpenFiles": [
+    "_posts_pt/2025-03-30-Ficção-Especulativa-no-Combate-às-Ditaduras-Reinventando-Futuros-Interrompidos.md",
+    "_posts_pt/2025-02-20-IA-Gerativa-na-encruzilhada-das-velhas-certezas-do-Norte-às-novas-possibilidades-do-Sul..md",
+    "_posts_pt/2023-05-22-Lamento-Negro.md",
+    "_posts_pt/en.md",
+    "_posts_pt/2025-03-30-Ficción-Especulativa-en-la-Lucha-Contra-las-Dictaduras-Reinventando-Futuros-Interrumpidos.md",
+    "_posts_pt/2023-03-24-Es-posible-una-Inteligencia-Artificial-socialmente-justa.md",
+    "_posts_pt/2023-03-23-Inteligencia-Artificial,-Agentes-Digitales-y-Agencia-Humana.md",
+    "_posts_pt/2023-03-28-El-Papel-del-Diseño-en-el-Desarrollo-de-AI.md",
+    "_posts_pt/2025-03-30-Generative-AI-at-the-Crossroads.md",
+    "_posts_pt/es.md",
+    "_posts_pt/2023-03-02-Devir.md",
+    "_posts_pt/2023-03-23-Artificial-Intelligence-Digital-Agents-and-Human-Agency.md",
+    "_posts_pt/2025-02-20-IA-Generativa-en-la-Encrucijada-De-las-Viejas-Certezas-del-Norte-a-las-Nuevas-Posibilidades-del-Sur.md",
+    "_posts_pt/2023-03-28-De-quién-es-la-autoría.md",
+    "_posts_pt/2023-03-24-Is-a-socially-just-Artificial-Intelligence-possible.md",
+    "_posts_pt/2023-03-23-Inteligência-artificial,-agentes-digitais-e-agência-humana.md",
+    "_posts_pt/2023-03-28-De-quem-é-a-autoria.md",
+    "_posts_pt/2023-03-28-El-Cuerpo-que-Aprende.md",
+    "_posts_pt/2022-02-28-Estética-política-do-capitalismo.md",
+    "_posts_pt/pt",
+    "_posts_pt/es",
+    "_posts_pt/en",
+    "_posts_pt",
+    "_posts/es.md",
+    "_posts/en.md",
+    "_posts/2025-03-30-Generative-AI-at-the-Crossroads.md",
+    "_posts/2023-03-23-Artificial-Intelligence-Digital-Agents-and-Human-Agency.md",
+    "_posts/2025-03-30-Ficción-Especulativa-en-la-Lucha-Contra-las-Dictaduras-Reinventando-Futuros-Interrumpidos.md",
+    "_posts/2025-03-30-Ficção-Especulativa-no-Combate-às-Ditaduras-Reinventando-Futuros-Interrompidos.md",
+    "_posts/2025-02-20-IA-Gerativa-na-encruzilhada-das-velhas-certezas-do-Norte-às-novas-possibilidades-do-Sul..md",
+    "sobre.markdown",
+    "_posts/pt",
+    "_posts/es",
+    "_posts/en"
+  ]
+}

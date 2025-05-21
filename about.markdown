@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Sobre
-permalink: /sobre/
-
 ---
 
 Designer e pesquisador, mestre em Design pelo PPGDesign da UFPE, onde cursa o doutorado. Tem trabalhado desde 1990 com colaboração, comportamentos emergentes e remix de várias linguagens nas áreas das artes visuais, design, música e filosofia. Nos últimos anos tem mergulhado nas transformações nas pessoas humanas e não-humanas que se dão por meio do design, com ênfase nas relações com as tecnologias.
