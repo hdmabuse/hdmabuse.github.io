@@ -119,7 +119,9 @@ default_lang: "pt"
 nav_pages:
      - about.md
      - sobre.md
-
+     - PT.md
+     - ES.md
+     - EN.md
 title: encruzilhada
 author:
   name: h.d.mabuse

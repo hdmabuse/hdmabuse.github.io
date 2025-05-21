@@ -1,7 +1,6 @@
 ---
 lang: pt
 title: Estética política do capitalismo
-permalink: /blog/pt/
 ---
 
 A importância do lançamento no Brasil do primeiro livro de Mark Fisher, [Realismo Capitalista](https://autonomialiteraria.com.br/loja/teoria-politica/realismo-capitalista/), publicado originalmente em 2009, e lançado agora pela Autonomia Literária, me faz escrever essas poucas linhas para dar conta de uma primeira e incompleta leitura da sua obra.  
