@@ -136,7 +136,10 @@ twitter_username: hdmabuse
 github_username:  hdmabuse
 
 # Build settings
-theme: minima
+
+remote_theme: mmistakes/so-simple-theme
+plugins:
+  - jekyll-remote-theme  # Permite temas remotos
 plugins:
   - jekyll-feed
 ---
