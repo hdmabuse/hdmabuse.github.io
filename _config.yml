@@ -135,8 +135,7 @@ github_username:  hdmabuse
 
 # Build settings
 
-theme:
-  - minima  # Permite temas remotos
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 ---
