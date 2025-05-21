@@ -11,7 +11,7 @@ lang: pt
 {% assign posts_pt = site.posts | where: "lang", "pt" %}
 {% if posts_pt.size > 0 %}
   {% for post in posts_pt %}
-  - [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%d/%m/%Y" }})
+  - [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%Y/%M/%D/" }})
   {% endfor %}
 {% else %}
   *Nenhum post em português ainda.*
@@ -23,7 +23,7 @@ lang: pt
 {% assign posts_en = site.posts | where: "lang", "en" %}
 {% if posts_en.size > 0 %}
   {% for post in posts_en %}
-  - [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%m/%d/%Y" }})
+  - [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%Y/%M/%D/" }})
   {% endfor %}
 {% else %}
   *No English posts yet.*
@@ -35,7 +35,7 @@ lang: pt
 {% assign posts_es = site.posts | where: "lang", "es" %}
 {% if posts_es.size > 0 %}
   {% for post in posts_es %}
-  - [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%d/%m/%Y" }})
+  - [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%Y/%M/%D/" }})
   {% endfor %}
 {% else %}
   *Aún no hay posts en español.*
