@@ -170,6 +170,10 @@
   },
   "active": "e6be73cbde2cea2e",
   "lastOpenFiles": [
+    "_layouts/post.html",
+    "_layouts/posts.md",
+    "_layouts",
+    "_layout",
     "_posts/2022-02-28-Estetica-política-do-capitalismo.md",
     "pt/index.markdown",
     "es",
@@ -201,10 +205,6 @@
     "_posts/es.md",
     "_posts/en.md",
     "_posts/2025-03-30-Generative-AI-at-the-Crossroads.md",
-    "_posts/2023-03-23-Artificial-Intelligence-Digital-Agents-and-Human-Agency.md",
-    "_posts/2025-03-30-Ficción-Especulativa-en-la-Lucha-Contra-las-Dictaduras-Reinventando-Futuros-Interrumpidos.md",
-    "_posts/2025-03-30-Ficção-Especulativa-no-Combate-às-Ditaduras-Reinventando-Futuros-Interrompidos.md",
-    "sobre.markdown",
-    "_posts/pt"
+    "_posts/2023-03-23-Artificial-Intelligence-Digital-Agents-and-Human-Agency.md"
   ]
 }
