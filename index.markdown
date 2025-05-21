@@ -8,17 +8,15 @@ lang: pt
 ---
 
 ## Posts em Português (PT)
-<ul>
+ <ul>
   {% for post in site.posts %}
-    {% if post.lang == "pt" %}
+   {% if post.lang == "pt" %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%d/%m/%Y" }}
       </li>
     {% endif %}
   {% endfor %}
 </ul>
-
----
 
 ## Posts em Inglês (EN)
 {% assign posts_en = site.posts | where: "lang", "en" %}
@@ -30,7 +28,6 @@ lang: pt
   *No English posts yet.*
 {% endif %}
 
----
 
 ## Posts em Espanhol (ES)
 {% assign posts_es = site.posts | where: "lang", "es" %}
